@@ -1,15 +1,26 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: NCAA Division I Cross Country & Track   
+  role: Distance, True Freshman
+  year: August 2025 – Present
+  url: https://gwsports.com/sports/mens-cross-country
+  summary: Member of starting 7 in cross country
 
+- organization: GW Rocket Team  
+  role: Aerostructures Subteam Member
+  year: September 2025 – present
+  url: https://mae.engineering.gwu.edu/student-organizations-0
+  summary: <ul class="resume-item-list"><li>Collaborated with propulsion, avionics, and recovery teams to ensure structural compatibility.</li><li>Assisted in fabrication/assembly of the rocket using composite materials, machining, and hand tools.</li><li>
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+organization: GW Engineers without Boarder   
+  role: Yumbe (Uganda) Learning Center Team
+  year: September 2025 – present
+  url: https://engineering.gwu.edu/engineers-without-borders
+  summary: <ul class="resume-item-list"><li>Contributed to a humanitarian engineering project addressing educational infrastructure in Yumbe.</li><li>Collaborated with a multidisciplinary team to research and evaluate practical engineering solutions.</li><li>Supported project planning and funding, design discussions, and outreach.</li><li>
+
+organization: SEAS Together Student Programming and Advisory Board    
+  role: First Generation Liaison
+  year: October 2025 – present
+  url: https://engineering.gwu.edu/seas-together
+  summary: <ul class="resume-item-list"><li>Collaborate and host events to foster inclusive excellence within the School of Engineering and Applied Science.</li><li>Work with faculty to ensure inclusion excellence initiative is more than adequately met.</li><li>
