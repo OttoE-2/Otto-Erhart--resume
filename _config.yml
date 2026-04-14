@@ -17,10 +17,10 @@ resume_title:                   "Undergraduate Student"
 resume_contact_email:           "ottoerhart2@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(206)401-4650"
-resume_contact_address:         "2426 NW 196th St, Shoreline WA"
+#resume_contact_telephone:       "(206)401-4650"
+#resume_contact_address:         "2426 NW 196th St, Shoreline WA"
 
-resume_header_contact_info:     "2426 NW 196th St, Shoreline WA • (206)401-4650 • ottoerhart2@gmail.com"
+#resume_header_contact_info:     "2426 NW 196th St, Shoreline WA • (206)401-4650 • ottoerhart2@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Undergraduate student and varisty athlete, passionate about technology and advancement. With an optimistic view about life.</p>"
